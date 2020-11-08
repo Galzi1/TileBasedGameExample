@@ -12,8 +12,8 @@ YELLOW = (255, 255, 0)
 
 # game options / settings
 TITLE = "Tile Example"
-WIDTH = 800
-HEIGHT = 600
+WIDTH = 1024
+HEIGHT = 768
 FPS = 30
 BGCOLOR = DARKGREY
 
